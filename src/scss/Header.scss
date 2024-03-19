@@ -1,0 +1,90 @@
+@use "utils" as *;
+@use "global" as *;
+
+.header {
+  &__group1 {
+    display: flex;
+    flex-direction: column;
+    height: 143px;
+    width: 1440px;
+  }
+  &__title1 {
+    bottom: 0px;
+    color: rgb(55, 97, 91);
+    display: flex;
+    font: 700 32px/1.46 "Zarid Slab", Helvetica, Arial, serif;
+    height: 47px;
+    justify-content: center;
+    left: 719px;
+    position: absolute;
+    right: 535px;
+    text-align: center;
+    top: 96px;
+    width: 186px;
+  }
+  &__title11 {
+    bottom: 0px;
+    color: rgb(55, 97, 91);
+    display: flex;
+    font: 700 32px/1.46 "Zarid Slab", Helvetica, Arial, serif;
+    height: 47px;
+    justify-content: center;
+    left: 605px;
+    position: absolute;
+    right: 767px;
+    text-align: center;
+    top: 96px;
+    width: 68px;
+  }
+  &__title12 {
+    bottom: 0px;
+    color: rgb(55, 97, 91);
+    display: flex;
+    font: 700 32px/1.46 "Zarid Slab", Helvetica, Arial, serif;
+    height: 47px;
+    justify-content: center;
+    left: 1254.5px;
+    position: absolute;
+    right: 79.5px;
+    text-align: center;
+    top: 96px;
+    width: 106px;
+  }
+  &__image {
+    bottom: 15px;
+    height: 110px;
+    left: 25px;
+    position: absolute;
+    right: 1208px;
+    top: 18px;
+    width: 207px;
+  }
+  &__title13 {
+    bottom: 0px;
+    color: rgb(55, 97, 91);
+    display: flex;
+    font: 700 32px/1.46 "Zarid Slab", Helvetica, Arial, serif;
+    height: 47px;
+    justify-content: center;
+    left: 1108px;
+    position: absolute;
+    right: 235px;
+    text-align: center;
+    top: 96px;
+    width: 97px;
+  }
+  &__title14 {
+    bottom: 0px;
+    color: rgb(55, 97, 91);
+    display: flex;
+    font: 700 32px/1.46 "Zarid Slab", Helvetica, Arial, serif;
+    height: 47px;
+    justify-content: center;
+    left: 953.5px;
+    position: absolute;
+    right: 382.5px;
+    text-align: center;
+    top: 96px;
+    width: 104px;
+  }
+}

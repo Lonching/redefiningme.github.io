@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <!--  This source code is exported from pxCode, you can get more document from https://www.pxcode.io  -->
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/aos@2.3.1/dist/aos.css" />
+
+    <!-- Please DO NOT remove this line, all link and script tags will be merged to here -->
+
+    <link rel="stylesheet" type="text/css" href="/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="/css/fonts.css" />
+    <link rel="stylesheet" type="text/css" href="/css/headroom.css" />
+    <link rel="stylesheet" type="text/css" href="/css/Oud.css" />
+
+    <script type="text/javascript" src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/sticky-js@1.3.0/dist/sticky.min.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/headroom.js@0.12.0/dist/headroom.min.js"></script>
+  </head>
+
+  <body class="flex-column">
+    <header id="header" class="headroom">
+      <nav class="max:show">
+        <!-- prettier-ignore -->
+        @@include('./Header.html')
+      </nav>
+    </header>
+    <main class="oud main">
+      <section class="section1">
+        <div class="rect6"></div>
+        <div class="content_box1">
+          <div class="content_box">
+            <div class="rect2"></div>
+            <div class="rect3"></div>
+            <h1 class="hero_title">The Oud</h1>
+            <h1 class="big_title">History  -  Diversity  -  Craftmanship</h1>
+          </div>
+          <img class="image" src="/assets/abstract_egg_shape.png" alt="alt text" />
+        </div>
+      </section>
+
+      <section class="section2">
+        <div class="section21">
+          <div class="rect"></div>
+          <div class="rect1"></div>
+          <div class="rect4"></div>
+          <h1 class="title">
+            The Oud is a traditional musical instrument that is used in Middle Eastern music. The melodies and songs
+            that it plays symbolize the cultural legacy and traditional history<br />of its diverse people.  <br />Its
+            form is a strong symbol of Middle Eastern craftmanship that is used as a tool to tell the stories and the
+            emotions of the history that it comes from.
+          </h1>
+        </div>
+      </section>
+
+      <section class="section3">
+        <div class="content_box2">
+          <h1 class="hero_title1">RME: Redefining The Middle East</h1>
+          <h3 class="subtitle">
+            An organization established for the empowerment of Middle Eastern People and their culture.
+          </h3>
+          <h1 class="hero_title2">Contact Us</h1>
+          <h5 class="highlight">
+            Privacy — Terms &amp; Conditions — RME: Redefining the Middle East © 2024 — All Rights Reserved
+          </h5>
+        </div>
+      </section>
+
+    </main>
+    <script type="text/javascript">
+      AOS.init();
+      new Sticky('.sticky-effect');
+
+      const header = document.querySelector("#header");
+      if(header) {
+          const headroom = new Headroom(header);
+          headroom.init();
+      }
+    </script>
+  </body>
+</html>

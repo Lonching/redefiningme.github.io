@@ -1,0 +1,167 @@
+.olive.main {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.olive .section1 {
+  display: flex;
+  flex-direction: column;
+}
+.olive .section11 {
+  background-color: #37615b;
+  display: flex;
+  flex-direction: column;
+  margin: 159px 0px 0px;
+  position: relative;
+}
+.olive .content_box1 {
+  background-color: #e1bb25;
+  display: flex;
+  flex-direction: column;
+  margin: 271px 0px;
+  position: relative;
+}
+.olive .content_box {
+  display: flex;
+  flex-direction: column;
+  margin: 7.5px 0px 73px 8.75%;
+  min-height: 195.5px;
+  position: relative;
+  width: 435px;
+}
+.olive .hero_title {
+  align-items: center;
+  color: #37615b;
+  display: flex;
+  font: 400 128px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 192px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 435px;
+}
+.olive .big_title {
+  align-items: center;
+  bottom: 0px;
+  color: #37615b;
+  display: flex;
+  font: 400 36px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 54px;
+  left: 10px;
+  position: absolute;
+  width: 391px;
+}
+.olive .decorator {
+  height: 954px;
+  left: 88px;
+  position: absolute;
+  top: -9px;
+  width: 1373px;
+}
+.olive .section2 {
+  display: flex;
+  flex-direction: column;
+}
+.olive .rect3 {
+  background-color: white;
+  min-height: 99px;
+}
+.olive .content_box2 {
+  display: flex;
+  flex-direction: column;
+  min-height: 717px;
+  position: relative;
+}
+.olive .rect4 {
+  background-color: #37615b;
+  bottom: 0px;
+  height: 717px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1440px;
+}
+.olive .rect5 {
+  background-color: #e1bb25;
+  height: 362px;
+  left: 0px;
+  position: absolute;
+  top: 162px;
+  width: 1440px;
+}
+.olive .title {
+  align-items: center;
+  color: #37615b;
+  display: flex;
+  font: 400 32px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 288px;
+  left: 120px;
+  position: absolute;
+  top: 199px;
+  width: 1201px;
+}
+.olive .section3 {
+  background-color: #e1bb25;
+  display: flex;
+  flex-direction: column;
+}
+.olive .content_box3 {
+  display: flex;
+  flex-direction: column;
+  height: 216px;
+  margin: 53.5px 493px 36.5px 120px;
+  min-height: 216px;
+  position: relative;
+  width: 827px;
+}
+.olive .hero_title1 {
+  align-items: center;
+  bottom: 126px;
+  color: #37615b;
+  display: flex;
+  font: 400 60px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  right: 125px;
+  top: 0px;
+  width: 702px;
+}
+.olive .subtitle {
+  align-items: center;
+  bottom: 123px;
+  color: #37615b;
+  display: flex;
+  font: 400 20px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 63px;
+  width: 827px;
+}
+.olive .hero_title2 {
+  align-items: center;
+  color: #37615b;
+  display: flex;
+  font: 400 48px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  text-decoration: underline;
+  top: 107px;
+  width: 183px;
+}
+.olive .highlight {
+  align-items: center;
+  bottom: 0px;
+  color: #37615b;
+  display: flex;
+  font: 400 16px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  width: 827px;
+}

@@ -1,0 +1,190 @@
+.watermelon.main {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.watermelon .section1 {
+  display: flex;
+  flex-direction: column;
+}
+.watermelon .section11 {
+  display: flex;
+  flex-direction: column;
+  height: 818px;
+  margin: 159px 0px 0px;
+  min-height: 818px;
+  position: relative;
+  width: 1440px;
+}
+.watermelon .content_box {
+  display: flex;
+  flex-direction: column;
+  height: 818px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.watermelon .rect {
+  background-color: #94b4a7;
+  bottom: 0px;
+  height: 818px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1440px;
+}
+.watermelon .rect3 {
+  background-color: #b24964;
+  height: 276px;
+  left: 0px;
+  position: absolute;
+  top: 271px;
+  width: 1440px;
+}
+.watermelon .flex_col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 246px;
+  left: 126px;
+  position: absolute;
+  top: 278.5px;
+  width: 743px;
+}
+.watermelon .hero_title {
+  align-items: center;
+  color: #2b183b;
+  display: flex;
+  font: 400 128px/1.5 "Zarid", Helvetica, Arial, serif;
+}
+.watermelon .big_title {
+  align-items: center;
+  color: #2b183b;
+  display: flex;
+  font: 400 36px/1.5 "Zarid", Helvetica, Arial, serif;
+  width: 97.31%;
+}
+.watermelon .image {
+  height: 795px;
+  left: 710px;
+  position: absolute;
+  top: 12px;
+  width: 638px;
+}
+.watermelon .section2 {
+  display: flex;
+  flex-direction: column;
+}
+.watermelon .rect4 {
+  background-color: white;
+  min-height: 99px;
+}
+.watermelon .content_box1 {
+  display: flex;
+  flex-direction: column;
+  min-height: 717px;
+  position: relative;
+}
+.watermelon .rect1 {
+  background-color: #94b4a7;
+  bottom: 0px;
+  height: 717px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1440px;
+}
+.watermelon .rect2 {
+  background-color: #b24964;
+  height: 362px;
+  left: 0px;
+  position: absolute;
+  top: 162px;
+  width: 1440px;
+}
+.watermelon .title {
+  align-items: center;
+  color: #e1bb25;
+  display: flex;
+  font: 400 32px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 192px;
+  left: 120px;
+  position: absolute;
+  top: 247px;
+  width: 1201px;
+}
+.watermelon .section3 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+.watermelon .rect5 {
+  background-color: #b24964;
+  height: 306px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.watermelon .section31 {
+  display: flex;
+  flex-direction: column;
+  height: 216px;
+  margin: 53.5px 493px 20.5px 120px;
+  min-height: 216px;
+  position: relative;
+  width: 827px;
+}
+.watermelon .hero_title1 {
+  align-items: center;
+  bottom: 126px;
+  color: #e1bb25;
+  display: flex;
+  font: 400 60px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  right: 125px;
+  top: 0px;
+  width: 702px;
+}
+.watermelon .subtitle {
+  align-items: center;
+  bottom: 123px;
+  color: #e1bb25;
+  display: flex;
+  font: 400 20px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  right: 0px;
+  top: 63px;
+  width: 827px;
+}
+.watermelon .hero_title2 {
+  align-items: center;
+  color: #e1bb25;
+  display: flex;
+  font: 400 48px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  text-decoration: underline;
+  top: 107px;
+  width: 183px;
+}
+.watermelon .highlight {
+  align-items: center;
+  bottom: 0px;
+  color: #e1bb25;
+  display: flex;
+  font: 400 16px/1.5 "Zarid", Helvetica, Arial, serif;
+  height: 24px;
+  left: 0px;
+  position: absolute;
+  width: 827px;
+}

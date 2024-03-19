@@ -1,0 +1,194 @@
+@use "utils" as *;
+@use "global" as *;
+
+.home {
+  &.root {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+  }
+  .section5 {
+    background-color: rgb(55, 97, 91);
+    bottom: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 306px;
+    left: 0px;
+    position: absolute;
+    width: 1440px;
+  }
+  .content_box {
+    display: flex;
+    flex-direction: column;
+    height: 216px;
+    margin: 53.5px 474px 36.5px 139px;
+    min-height: 216px;
+    position: relative;
+    width: 827px;
+  }
+  .hero_title {
+    align-items: center;
+    bottom: 126px;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 60px/1.5 "Zarid", Helvetica, Arial, serif;
+    height: 90px;
+    left: 0px;
+    position: absolute;
+    right: 125px;
+    top: 0px;
+    width: 702px;
+  }
+  .subtitle {
+    align-items: center;
+    bottom: 123px;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 20px/1.5 "Zarid", Helvetica, Arial, serif;
+    height: 30px;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 63px;
+    width: 827px;
+  }
+  .hero_title1 {
+    align-items: center;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 48px/1.5 "Zarid", Helvetica, Arial, serif;
+    height: 72px;
+    left: 0px;
+    position: absolute;
+    text-decoration: underline;
+    top: 107px;
+    width: 183px;
+  }
+  .highlight {
+    align-items: center;
+    bottom: 0px;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 16px/1.5 "Zarid", Helvetica, Arial, serif;
+    height: 24px;
+    left: 0px;
+    position: absolute;
+    width: 827px;
+  }
+  .section4 {
+    background-color: rgb(225, 187, 37);
+    display: flex;
+    flex-direction: column;
+    height: 717px;
+    left: 0px;
+    position: absolute;
+    top: 1076px;
+    width: 1440px;
+  }
+  .group {
+    display: flex;
+    flex-direction: column;
+    margin: 162px 0px 193px;
+    position: relative;
+  }
+  .rect5 {
+    background-color: rgb(55, 97, 91);
+    min-height: 362px;
+    position: relative;
+  }
+  .title {
+    align-items: center;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 32px/1.5 "Zarid", Helvetica, Arial, serif;
+    height: 240px;
+    left: 139px;
+    position: absolute;
+    top: 61px;
+    width: 1201px;
+  }
+  .section3 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    margin: 977px 0px 1023px;
+    min-height: 99px;
+    position: relative;
+  }
+  .section2 {
+    display: flex;
+    flex-direction: column;
+    height: 834px;
+    left: 0px;
+    position: absolute;
+    top: 143px;
+    width: 1440px;
+  }
+  .group1 {
+    display: flex;
+    flex-direction: column;
+    height: 818px;
+    left: 0px;
+    position: absolute;
+    top: 16px;
+    width: 1440px;
+  }
+  .rect2 {
+    background-color: rgb(225, 187, 37);
+    height: 818px;
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    width: 1440px;
+  }
+  .rect3 {
+    background-color: rgb(55, 97, 91);
+    height: 276px;
+    left: 0px;
+    position: absolute;
+    top: 271px;
+    width: 1440px;
+  }
+  .flex_col {
+    display: flex;
+    flex-direction: column;
+    height: 246px;
+    left: 126px;
+    position: absolute;
+    top: 294.5px;
+    width: 1187px;
+  }
+  .hero_title2 {
+    align-items: center;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 128px/1.5 "Zarid", Helvetica, Arial, serif;
+  }
+  .big_title {
+    align-items: center;
+    color: rgb(225, 187, 37);
+    display: flex;
+    font: 400 36px/1.5 "Zarid", Helvetica, Arial, serif;
+  }
+  .group2 {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 0px 818px;
+    position: relative;
+  }
+  .rect6 {
+    background-color: rgb(255, 255, 255);
+    height: 143px;
+    left: 0px;
+    position: absolute;
+    top: -143px;
+    width: 1440px;
+  }
+  .rect61 {
+    background-color: rgb(255, 255, 255);
+    min-height: 16px;
+    position: relative;
+  }
+}
